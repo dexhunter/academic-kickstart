@@ -18,7 +18,7 @@ organizations:
   url: "http://www.zju.edu.cn/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 bio: My research interests include deep learning, reinforcement learning, security & privacy and blockchain.
 
 interests:
