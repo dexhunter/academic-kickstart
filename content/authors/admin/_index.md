@@ -19,12 +19,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: My research interests include deep learning, reinforcement learning, security & privacy and blockchain.
+bio: I like building things =)
 
 interests:
 - Deep Learning
-- Reinforcement Learning
+- Quantitative Finance
 - Security & Privacy
+- Reinforcement Learning
 - Blockchain
 
 education:
