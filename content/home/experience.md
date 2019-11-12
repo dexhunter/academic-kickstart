@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   location = "Suzhou"
   date_start = "2017-06-01"
   date_end = "2017-08-31"
-  description = """supervised by Dr. Steven Guan
+  description = """supervised by Prof. Steven Guan
 
   Research Topic: Style Transfer for Avatar Sketches with Enhanced Residual U-net and Deep Convolutional GAN
   """
