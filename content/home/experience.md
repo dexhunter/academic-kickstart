@@ -51,6 +51,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Summer Undergraduate Research Fellow"
+  company = "Xi'an Jiaotong-Liverpoool University"
+  company_url = "https://www.xjtlu.edu.cn/en/"
+  location = "Suzhou"
+  date_start = "2017-06-01"
+  date_end = "2017-08-31"
+  description = """supervised by Dr. Steven Guan
+
+  Research Topic: Style Transfer for Avatar Sketches with Enhanced Residual U-net and Deep Convolutional GAN
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "Xi'an Jiaotong-Liverpoool University"
   company_url = "https://www.xjtlu.edu.cn/en/"
