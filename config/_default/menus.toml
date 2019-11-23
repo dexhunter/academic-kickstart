@@ -34,3 +34,13 @@
    name = "CV"
    url = "files/resume_dixing.pdf"
    weight = 70
+
+[[main]]
+   name = "blog"
+   url = "http://blog.dex.moe"
+   weight = 70
+
+[[main]]
+   name = "slides"
+   url = "http://slides.dex.moe"
+   weight = 70
