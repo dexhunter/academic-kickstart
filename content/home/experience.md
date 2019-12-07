@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Research Experience"
-subtitle = "Full Experience on LinkedIn"
+subtitle = "Full Experience on LinkedIn/CV"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -42,12 +42,7 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """supervised by Prof. Rui Tan
 
-  Research Area:
-  
-  * Deep Learning
-  * Collaborative Learning
-  * Internet of Things
-  * Privacy
+  Research Topic: Privacy-preserving Machine Learning in IoT.
   """
 
 [[experience]]
@@ -69,12 +64,9 @@ date_format = "Jan 2006"
   location = "Suzhou"
   date_start = "2016-11-01"
   date_end = "2018-09-01"
-  description = """supervised by Dr. Jinjun Liang 
+  description = """supervised by Dr. Jinjun Liang
 
-  Research Area:
-  
-  * Deep Learning
-  * Reinforcement Learning
-  * Quantitative Finance
+  Build a portfolio management library ([PGPortfolio](https://github.com/zhengyaojiang/pgportfolio)) together with Zhengyao Jiang based on our paper. *Note: paper over 40 citations and project over 1000 starts on Github by Dec. 2019*
+
   """
 +++
