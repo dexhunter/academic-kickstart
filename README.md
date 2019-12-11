@@ -1,1 +1,1 @@
-migrate to resume.dex.moe soon
+personal resume page [url](https://resume.dex.moe)
