@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Dixing Xu is a visiting student researcher at Zhejiang University. His research interests include deep learning, reinforcement learning, security, blockchain and quantitative trading. Previously, he was a research assistant at Nanyang Technological University under supervision of Prof. Rui Tan.
+Dixing Xu is a visiting student researcher at Zhejiang University. His research interests include deep learning, reinforcement learning, security, blockchain and quantitative trading. Previously, he was a research assistant at Nanyang Technological University under supervision of [Prof. Rui Tan](https://www.ntu.edu.sg/home/tanrui/).

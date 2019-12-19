@@ -33,12 +33,17 @@
 
 [[main]]
    name = "blog"
-   url = "http://blog.dex.moe"
+   url = "https://blog.dex.moe"
    weight = 70
 
 [[main]]
    name = "slides"
-   url = "http://slides.dex.moe"
+   url = "https://slides.dex.moe"
+   weight = 70
+
+[[main]]
+   name = "books"
+   url = "https://books.dex.moe"
    weight = 70
    
 [[main]]
